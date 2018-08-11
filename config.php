@@ -1,0 +1,1 @@
+<?php  return array( 'name'=>'EasyHub', 'version'=>'1.0', 'minsystemver'=>'0.3.6.5' ); 
